@@ -2,7 +2,6 @@
 **Author:** Supriya Nannapaneni  
 **Concept:** *trade*  
 **Corpus:** Early Modern English Political Economy Texts (23 documents, c. 1580–1776)  
-**Due:** April 22, 2026
 
 ---
 
